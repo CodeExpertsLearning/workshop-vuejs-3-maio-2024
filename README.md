@@ -16,6 +16,8 @@ O Workshop visa abordar os seguintes assuntos:
 Neste Workshop especifico irei mostrar a migração de um projeto existente para o uso de Composition API de forma a entendermos na prática o processo
 e trazer o aprendizado neste escopo.
 
+# O Workshop terá duração de 6 horas e será realizado no dia 25 de Maio de 2024 (08 às 14 horas).
+
 # Como me inscrever
 
 O Workshop irá custar apenas R$ 47,00 com limite de alunos e a inscrição será via PIX (Instruções abaixo).
