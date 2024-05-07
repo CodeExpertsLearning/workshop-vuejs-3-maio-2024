@@ -25,7 +25,7 @@ O workshop será realizado via Zoom e contará com um grupo de apoio via Telegra
 ## Como proceder com minha inscrição
 
 1. Realize o pix no valor do workshop acima para a chave `learning@codeexperts.com.br`
-2. Me notifique via whatsapp (aqui)[];
+2. Me notifique via whatsapp [](aqui);
 3. Irei confirmar sua inscrição e te add no grupo do telegram.
 
-Demais dúvidas entre em contato comigo via (Code Experts)[https://codeexperts.com,br] via chat.
+Demais dúvidas entre em contato comigo via [https://codeexperts.com,br](Code Experts) via chat.
