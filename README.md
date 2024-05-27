@@ -20,7 +20,7 @@ e trazer o aprendizado neste escopo.
 
 # Como me inscrever
 
-O Workshop irá custar apenas R$ 47,00 com limite de alunos e a inscrição será via PIX (Instruções abaixo).
+O Workshop irá custar apenas **R$ 47,00** com limite de alunos e a inscrição será via PIX (Instruções abaixo).
 
 O workshop será realizado via Zoom e contará com um grupo de apoio via Telegram.
 
