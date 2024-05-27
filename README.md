@@ -1,4 +1,4 @@
-# Workshop VueJS 3 / Maio 2024
+# Workshop VueJS 3 / (Maio~Junho) 2024
 
 Neste workshop iremos aprender a desenvolver aplicações com VueJS focado na composition API.
 
@@ -16,7 +16,7 @@ O Workshop visa abordar os seguintes assuntos:
 Neste Workshop especifico irei mostrar a migração de um projeto existente para o uso de Composition API de forma a entendermos na prática o processo
 e trazer o aprendizado neste escopo.
 
-# O Workshop terá duração de 6 horas e será realizado no dia 25 de Maio de 2024 (08 às 14 horas).
+# O Workshop terá duração de 6 horas e será realizado no dia 01 de Junho de 2024 (08 às 14 horas).
 
 # Como me inscrever
 
